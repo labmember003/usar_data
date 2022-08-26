@@ -4,7 +4,7 @@
 		{
 			"sub_name":"Communication Skills - 1",
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/communicationSkillIcon.png",
 			"sections":
 			[
 				{
@@ -43,7 +43,7 @@
 		{
 			"sub_name":"Engineering Mechanics",	
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/mechanicsIcon.png",
 			"sections":
 			[
 				{
@@ -81,7 +81,7 @@
 		{
 			"sub_name":"Introduction to Computers",
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/introductionToComputerIcon.png",
 			"sections":
 			[
 				{
@@ -123,7 +123,7 @@
 		{
 			"sub_name":"Maths - 1",	
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/mathIcon.png",
 			"sections":
 			[
 				{
@@ -166,7 +166,7 @@
 		{
 			"sub_name":"Physics - 1",
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/physicsIcon.png",
 			"sections":
 			[
 				{
@@ -216,7 +216,7 @@
 		{
 			"sub_name":"Chemistry - 1",	
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/chemistryIcon.png",
 			"sections":
 			[
 				{
@@ -255,7 +255,7 @@
 		{
 			"sub_name":"Electrical Science",	
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/electricalIcon.png",
 			"sections":
 			[
 				{
@@ -301,7 +301,7 @@
 		{
 			"sub_name":"Engineering Graphics - 1",	
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/graphicsIcon.png",
 			"sections":
 			[
 				{
@@ -340,7 +340,7 @@
 		{
 			"sub_name":"Indian Constitution",
 			"semester":"odd",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/llbIcon.png",
 			"sections":
 			[
 				{
@@ -389,7 +389,7 @@
 		{
 			"sub_name":"Communication Skills - 2",
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/communicationSkillIcon.png",
 			"sections":
 			[
 				{
@@ -428,7 +428,7 @@
 		{
 			"sub_name":"Introduction to Computers",
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/introductionToComputerIcon.png",
 			"sections":
 			[
 				{
@@ -471,7 +471,7 @@
 		{
 			"sub_name":"Maths - 2",	
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/mathIcon.png",
 			"sections":
 			[
 				{
@@ -506,7 +506,7 @@
 		{
 			"sub_name":"Physics - 2",
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/physicsIcon.png",
 			"sections":
 			[
 				{
@@ -544,7 +544,7 @@
 		{
 			"sub_name":"Chemistry - 2",	
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/chemistryIcon.png",
 			"sections":
 			[
 				{
@@ -623,7 +623,7 @@
 		{
 			"sub_name":"Engineering Graphics - 2",	
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/graphicsIcon.png",
 			"sections":
 			[
 				{
@@ -658,7 +658,7 @@
 		{
 			"sub_name":"R",	
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/probabilityIconn.png",
 			"sections":
 			[
 				{
@@ -698,7 +698,7 @@
 		{
 			"sub_name":"Manufacturing",	
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/mechanicsIcon.png",
 			"sections":
 			[
 				{
@@ -733,7 +733,7 @@
 		{
 			"sub_name":"Probability And Statistics",	
 			"semester":"even",
-			"icon_url":"www.google.com",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/YEAR_1/icons/probabilityIconn.png",
 			"sections":
 			[
 				{
