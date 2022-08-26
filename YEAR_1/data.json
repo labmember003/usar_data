@@ -1,0 +1,769 @@
+{
+	"subjects":
+	[
+		{
+			"sub_name":"Communication Skills - 1",
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+						
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Minor Exam",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/CommunicationSkills/Exam/MinorExam.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"source_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/CommunicationSkills/Books/CommunicationPrinciplesAndPractice.pdf",
+							"name":"Communication Principles And Practice"
+						}	
+					]
+				}
+			]
+		},
+		{
+			"sub_name":"Engineering Mechanics",	
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Minor Exam",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/paper/MinorExam.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "A K Tayal",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/Books/AkTayal.pdf"
+						}
+					]
+				}
+			]
+		},
+		{
+			"sub_name":"Introduction to Computers",
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Practical File",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ProgrammingforProblemSolvingInC/FILES/PracticalFile.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"source_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ProgrammingforProblemSolvingInC/Books/TheC_ProgrammingLanguage.pdf",
+							"name":"The C Programming Language"
+						}
+						{
+							"name": "How To Solve It By Computer",
+							"source_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ProgrammingforProblemSolvingInC/Books/HowToSolveItByComputer.pdf"
+						}
+					]
+				}
+			]	
+		},
+		{
+			"sub_name":"Maths - 1",	
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Minor Exam",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMathematics/paper/MinorExam.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Grewal B S Higher Engineering Mathematics",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMathematics/Books/Grewal_B_S_Higher_engineering_mathematics.pdf"
+						},
+						{
+							"name": "Advanced Engineering Mathematics 10th Edition Kreyszigpr",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMathematics/Books/AdvancedEngineeringMathematics10thEditionKreyszigpr.pdf"
+						}
+					]
+				}
+
+			]
+		},
+		{
+			"sub_name":"Physics - 1",
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Physics File",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringPhysics/files/PhysicsFile.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Physics Lab Manual",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringPhysics/Books/PhysicsLabManual.pdf"
+						},
+						{
+							"name": "Concepts of Modern Physics Arthur Beiser",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringPhysics/Books/Concepts_of_Modern_Physics_Arthur_Beiser.pdf"
+						},
+						{
+							"name": "Physics for Scientists and Engineers",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringPhysics/Books/Physics_for_scientists_and_engineers.pdf"
+						},
+						{
+							"name": "14 Solution Manual Physics by Serway 9th Edition",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringPhysics/Books/14_SOLUTION_MANUAL_PHYSICS_BY_SERWAY_9TH_EDITION.pdf"
+						}
+					]
+				}
+			]	
+		},
+		{
+			"sub_name":"Chemistry - 1",	
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Chemistry File",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringChemistry/FILES/ChemistryFile.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Minor Exam",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringChemistry/EXAMS/MinorExam.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+
+			]
+		},
+		{
+			"sub_name":"Electrical Science",	
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Es File",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ElectricalScience/File/EsFile.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Minor Exam",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ElectricalScience/Paper/MinorExam.pdf"
+						}
+						{
+							"name": "Es Practical Exam",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ElectricalScience/Paper/EsPracticalExam.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Electrical Engineering Fundamentals By V Del Toro1",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ElectricalScience/Books/ElectricalEngineeringFundamentalsByVDelToro1.pdf"
+						}
+					]
+				}
+
+			]
+		},
+		{
+			"sub_name":"Engineering Graphics - 1",	
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Graphics File",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringGraphics/file/GraphicsFile.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Engineering Drawing By N D Bhatt",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringGraphics/Books/EngineeringDrawingByNdBhatt.pdf"
+						}
+					]
+				}
+
+			]
+		},
+		{
+			"sub_name":"Indian Constitution",
+			"semester":"odd",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "LLB Farm Bill PPT",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/IndianConstitution/PRESENTATION/LlbFarmBill.pptx"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Question Paper",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/IndianConstitution/PAPERS/QuestionPaper.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Indian Polity By D D Bashu",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/IndianConstitution/Books/IndianPolityByDD_Bashu.pdf"
+						},
+						{
+							"name": "P M Bakshi",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/IndianConstitution/Books/PM_Bakshi.pdf"
+						},
+						{
+							"name": "The Constitutional Law Of India Edition Tenth By J N Pandey",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/IndianConstitution/Books/TheConstitutionalLawOfIndiaEditionTenthByJN_Pandey.pdf"
+						}
+					]
+				}
+			]	
+		},
+		{
+			"sub_name":"Communication Skills - 2",
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Essay",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/CommunicationSkills/ASSIGNMENT/ESSAY.docx"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Mid Term",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/CommunicationSkills/PAPER/MidTerm.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+
+			]
+		},
+		{
+			"sub_name":"Introduction to Computers",
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "File 1",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/ProgrammingInPython/FILE/File1.pdf"
+						},
+						{
+							"name": "File 2",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/ProgrammingInPython/FILE/File2.pdf"
+						},
+						{
+							"name": "File 3",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/ProgrammingInPython/FILE/File3.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+			]	
+		},
+		{
+			"sub_name":"Maths - 2",	
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Mid Term",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/EngineeringMathematics/PAPER/MidTerm.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+			]
+		},
+		{
+			"sub_name":"Physics - 2",
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Physics File",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/EngineeringPhysics/FILE/PhysicsFile.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Mid Term",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/EngineeringPhysics/PAPER/MidTerm.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+			]	
+		},
+		{
+			"sub_name":"Chemistry - 2",	
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Chemistry PPT",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/EngineeringChemistry/OTHER/PPT.pdf"
+						},
+						{
+							"name": "Chemistry File",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/EngineeringChemistry/FILES/ChemistryFIle.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Mid Term",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/EngineeringChemistry/PAPER/MidTerm.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+
+			]
+		},
+		{
+			"sub_name":"EVS",
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "EVS PPT",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/EVS/OTHERS/PPT.pdf"
+						}
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+
+			]
+		},
+		{
+			"sub_name":"Engineering Graphics - 2",	
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Practical Exam",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/EG/PAPER/PracticalExam.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+			]
+		},
+		{
+			"sub_name":"R",	
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "File 1",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/R/FILE/File1.pdf"
+						},
+						{
+							"name": "File 2",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/R/FILE/File2.pdf"
+						}
+
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+			]
+		},
+		{
+			"sub_name":"Manufacturing",	
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Mid Term",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/Manufacturing/PAPER/MidTerm.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+			]
+		},
+		{
+			"sub_name":"Probability And Statistics",	
+			"semester":"even",
+			"icon_url":"www.google.com",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						{
+							"name": "Mid Term",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/ProbabilityAndStatistics/PAPER/MidTerm.pdf"
+						}
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"www.google.com",
+					"contents":
+					[
+						
+					]
+				}
+			]
+		}
+	]
+}
