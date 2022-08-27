@@ -111,7 +111,7 @@
 						{
 							"source_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ProgrammingforProblemSolvingInC/Books/TheC_ProgrammingLanguage.pdf",
 							"name":"The C Programming Language"
-						}
+						},
 						{
 							"name": "How To Solve It By Computer",
 							"source_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ProgrammingforProblemSolvingInC/Books/HowToSolveItByComputer.pdf"
@@ -277,7 +277,7 @@
 						{
 							"name": "Minor Exam",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ElectricalScience/Paper/MinorExam.pdf"
-						}
+						},
 						{
 							"name": "Es Practical Exam",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ElectricalScience/Paper/EsPracticalExam.pdf"
