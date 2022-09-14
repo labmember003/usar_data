@@ -1,0 +1,1229 @@
+{
+	"branches":
+	[
+		{
+			"branch_Name" : "AIDS",
+			"subjects" : 
+			[
+				{
+					"sub_name": "Linear and Abstract Algebras",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Introduction to Artificial Intelligence",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Computer Networks",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Database Management System",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Foundation of Computer Science",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Data Structures",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Engineering Economics",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Artificial Intelligence Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Database Management System Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Data Structures Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"branch_Name" : "AIML",
+			"subjects" : 
+			[
+				{
+					"sub_name": "Linear and Abstract Algebras",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Introduction to Artificial Intelligence",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Computer Networks",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Database Management System",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Foundation of Computer Science",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Data Structures",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Engineering Economics",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Artificial Intelligence Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Database Management System Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Data Structures Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"branch_Name" : "IIOT",
+			"subjects" : 
+			[
+				{
+					"sub_name": "Linear and Abstract Algebra",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Artificial Intelligence and Its Applications",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Computer Networks",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Analog Electronics",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Switching Theory and Logic Design",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Data Structures",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Engineering Economics",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Artificial Intelligence Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Basic Electronics Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Data Structures Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"branch_Name" : "AR",
+			"subjects" : 
+			[
+				{
+					"sub_name": "Linear and Abstract Algebra",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Introduction to Robotics",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Mechanics of Material",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Analog Electronics",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Switching Theory and Logic Design",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Kinematics and Dynamics of Machines",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Engineering Economics",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Robotics Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Basic Electronics Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Machine and Materials Lab",
+					"semester":"odd",
+					"icon_url":"",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
