@@ -444,6 +444,446 @@
 							]
 						}
 					]
+				},
+				{
+					"sub_name": "Software Engineering",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Operating System",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Introduction to Machine Learning",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Analysis and Design of Algorithms",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Data Mining And Business Intelligence",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Convex Optimization",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Accountancy for Engineers",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Machine Learning Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Analysis and Design of Algorithms Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Object Oriented Programing using Java Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
 				}
 			]
 		},
@@ -851,6 +1291,446 @@
 					"sub_name": "Data Structures Lab",
 					"semester":"odd",
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/DataStructuresIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Software Engineering",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Operating System",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Introduction to Machine Learning",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Analysis and Design of Algorithms",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Data Mining And Business Intelligence",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Convex Optimization",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Accountancy for Engineers",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Machine Learning Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Analysis and Design of Algorithms Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Object Oriented Programing using Java Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
 					"sections":
 					[
 						{
@@ -1336,6 +2216,446 @@
 							]
 						}
 					]
+				},
+				{
+					"sub_name": "Internet of Things",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Mechatronic Systems and Applications",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Fundamentals of Automation",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Control Systems",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Electrical Machines and Drives",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Convex Optimization",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Accountancy for Engineers",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "IoT Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Mechatronies Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Object Oriented Programing using Java Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
 				}
 			]
 		},
@@ -1743,6 +3063,446 @@
 					"sub_name": "Machine and Materials Lab",
 					"semester":"odd",
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/MechanicsOfMaterialIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Internet of Things",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Mechatronic Systems and Applications",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Fundamentals of Automation",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Control Theory and Robot Control Systems",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "OOPS and Data Structures",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Convex Optimization",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Accountancy for Engineers",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Mechatronics and IoT Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "Machine Drawing Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"sections":
+					[
+						{
+							"title":"Notes & Files",
+							"contents":
+							[
+								
+								
+							]
+						},
+						{
+							"title":"papers",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"books",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Playlists",
+							"contents":
+							[
+								
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								
+							]
+						}
+					]
+				},
+				{
+					"sub_name": "OOPS and Data Structures Lab",
+					"semester":"even",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
 					"sections":
 					[
 						{
