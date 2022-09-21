@@ -30,14 +30,24 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Mathematics For Machine Learning",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/MathematicsForMachineLearning.pdf"
+								},
+								{
+									"name": "IN Herstein",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/IN_Herstein.pdf"
+								}
 							]
 						},
 						{
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "Dr.Gajendra Purohit(Youtube)",
+									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
+								}
 							]
 						},
 						{
@@ -916,14 +926,24 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Mathematics For Machine Learning",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/MathematicsForMachineLearning.pdf"
+								},
+								{
+									"name": "IN Herstein",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/IN_Herstein.pdf"
+								}
 							]
 						},
 						{
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "Dr.Gajendra Purohit(Youtube)",
+									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
+								}
 							]
 						},
 						{
