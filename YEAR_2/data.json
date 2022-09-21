@@ -448,7 +448,7 @@
 				{
 					"sub_name": "Software Engineering",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/SoftwareEngineeringIcon.png",
 					"sections":
 					[
 						{
@@ -492,7 +492,7 @@
 				{
 					"sub_name": "Operating System",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/OperatingSystemIcon.png",
 					"sections":
 					[
 						{
@@ -536,7 +536,7 @@
 				{
 					"sub_name": "Introduction to Machine Learning",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/IntroductionToMachineLearningIcon.png",
 					"sections":
 					[
 						{
@@ -580,7 +580,7 @@
 				{
 					"sub_name": "Analysis and Design of Algorithms",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/AnalysisAndDesignOfAlgorithmsIcon.png",
 					"sections":
 					[
 						{
@@ -624,7 +624,7 @@
 				{
 					"sub_name": "Data Mining And Business Intelligence",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/DataMiningAndBusinessIntelligenceIcon.png",
 					"sections":
 					[
 						{
@@ -668,7 +668,7 @@
 				{
 					"sub_name": "Convex Optimization",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/ConvexOptimizationIcon.png",
 					"sections":
 					[
 						{
@@ -712,7 +712,7 @@
 				{
 					"sub_name": "Accountancy for Engineers",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/AccountancyForEngineersIcon.png",
 					"sections":
 					[
 						{
@@ -756,7 +756,7 @@
 				{
 					"sub_name": "Machine Learning Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/IntroductionToMachineLearningIcon.png",
 					"sections":
 					[
 						{
@@ -800,7 +800,7 @@
 				{
 					"sub_name": "Analysis and Design of Algorithms Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/AnalysisAndDesignOfAlgorithmsIcon.png",
 					"sections":
 					[
 						{
@@ -844,7 +844,7 @@
 				{
 					"sub_name": "Object Oriented Programing using Java Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/DataStructuresIcon.png",
 					"sections":
 					[
 						{
@@ -1334,7 +1334,7 @@
 				{
 					"sub_name": "Software Engineering",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/SoftwareEngineeringIcon.png",
 					"sections":
 					[
 						{
@@ -1378,7 +1378,7 @@
 				{
 					"sub_name": "Operating System",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/OperatingSystemIcon.png",
 					"sections":
 					[
 						{
@@ -1422,7 +1422,7 @@
 				{
 					"sub_name": "Introduction to Machine Learning",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/IntroductionToMachineLearningIcon.png",
 					"sections":
 					[
 						{
@@ -1466,7 +1466,7 @@
 				{
 					"sub_name": "Analysis and Design of Algorithms",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/AnalysisAndDesignOfAlgorithmsIcon.png",
 					"sections":
 					[
 						{
@@ -1510,7 +1510,7 @@
 				{
 					"sub_name": "Data Mining And Business Intelligence",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/DataMiningAndBusinessIntelligenceIcon.png",
 					"sections":
 					[
 						{
@@ -1554,7 +1554,7 @@
 				{
 					"sub_name": "Convex Optimization",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/ConvexOptimizationIcon.png",
 					"sections":
 					[
 						{
@@ -1598,7 +1598,7 @@
 				{
 					"sub_name": "Accountancy for Engineers",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/AccountancyForEngineersIcon.png",
 					"sections":
 					[
 						{
@@ -1642,7 +1642,7 @@
 				{
 					"sub_name": "Machine Learning Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/IntroductionToMachineLearningIcon.png",
 					"sections":
 					[
 						{
@@ -1686,7 +1686,7 @@
 				{
 					"sub_name": "Analysis and Design of Algorithms Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/AnalysisAndDesignOfAlgorithmsIcon.png",
 					"sections":
 					[
 						{
@@ -1730,7 +1730,7 @@
 				{
 					"sub_name": "Object Oriented Programing using Java Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/DataStructuresIcon.png",
 					"sections":
 					[
 						{
@@ -2220,7 +2220,7 @@
 				{
 					"sub_name": "Internet of Things",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/internetOfThingsIcon.png",
 					"sections":
 					[
 						{
@@ -2264,7 +2264,7 @@
 				{
 					"sub_name": "Mechatronic Systems and Applications",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/MechanicsOfMaterialIcon.png",
 					"sections":
 					[
 						{
@@ -2308,7 +2308,7 @@
 				{
 					"sub_name": "Fundamentals of Automation",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/fundamentalsOfRoboticsIcon.png",
 					"sections":
 					[
 						{
@@ -2352,7 +2352,7 @@
 				{
 					"sub_name": "Control Systems",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/ControlSystemsIcon.png",
 					"sections":
 					[
 						{
@@ -2396,7 +2396,7 @@
 				{
 					"sub_name": "Electrical Machines and Drives",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/ElectricalMachinesAndDrivesIcon.png",
 					"sections":
 					[
 						{
@@ -2440,7 +2440,7 @@
 				{
 					"sub_name": "Convex Optimization",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/ConvexOptimizationIcon.png",
 					"sections":
 					[
 						{
@@ -2484,7 +2484,7 @@
 				{
 					"sub_name": "Accountancy for Engineers",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/AccountancyForEngineersIcon.png",
 					"sections":
 					[
 						{
@@ -2528,7 +2528,7 @@
 				{
 					"sub_name": "IoT Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/internetOfThingsIcon.png",
 					"sections":
 					[
 						{
@@ -2572,7 +2572,7 @@
 				{
 					"sub_name": "Mechatronies Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/MechatroniesLabIcon.png",
 					"sections":
 					[
 						{
@@ -2616,7 +2616,7 @@
 				{
 					"sub_name": "Object Oriented Programing using Java Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/DataStructuresIcon.png",
 					"sections":
 					[
 						{
@@ -3106,7 +3106,7 @@
 				{
 					"sub_name": "Internet of Things",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/internetOfThingsIcon.png",
 					"sections":
 					[
 						{
@@ -3150,7 +3150,7 @@
 				{
 					"sub_name": "Mechatronic Systems and Applications",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/MechanicsOfMaterialIcon.png",
 					"sections":
 					[
 						{
@@ -3194,7 +3194,7 @@
 				{
 					"sub_name": "Fundamentals of Automation",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/fundamentalsOfRoboticsIcon.png",
 					"sections":
 					[
 						{
@@ -3238,7 +3238,7 @@
 				{
 					"sub_name": "Control Theory and Robot Control Systems",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/ControlSystemsIcon.png",
 					"sections":
 					[
 						{
@@ -3282,7 +3282,7 @@
 				{
 					"sub_name": "OOPS and Data Structures",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/DataStructuresIcon.png",
 					"sections":
 					[
 						{
@@ -3326,7 +3326,7 @@
 				{
 					"sub_name": "Convex Optimization",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/ConvexOptimizationIcon.png",
 					"sections":
 					[
 						{
@@ -3370,7 +3370,7 @@
 				{
 					"sub_name": "Accountancy for Engineers",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/AccountancyForEngineersIcon.png",
 					"sections":
 					[
 						{
@@ -3414,7 +3414,7 @@
 				{
 					"sub_name": "Mechatronics and IoT Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/MechanicsOfMaterialIcon.png",
 					"sections":
 					[
 						{
@@ -3458,7 +3458,7 @@
 				{
 					"sub_name": "Machine Drawing Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/MachineDrawingLabIcon.png",
 					"sections":
 					[
 						{
@@ -3502,7 +3502,7 @@
 				{
 					"sub_name": "OOPS and Data Structures Lab",
 					"semester":"even",
-					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/DataStructuresIcon.png",
 					"sections":
 					[
 						{
