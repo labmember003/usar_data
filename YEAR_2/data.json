@@ -54,7 +54,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "LinearAndAbstractAlgebra",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -98,7 +101,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "IntroductionToArtificialIntelligence",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/IntroductionToArtificialIntelligence/Syallabus/IntroductionToArtificialIntelligenceSyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -142,7 +148,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "ComputerNetworks",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/ComputerNetworks/Syallabus/ComputerNetworksSyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -186,7 +195,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "DatabaseManagementSystem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/DatabaseManagementSystem/Syallabus/DatabaseManagementSystemSyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -230,7 +242,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "FoundationOfComputerScience",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/FoundationOfComputerScience/Syallabus/FoundationOfComputerScienceSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -274,7 +289,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "DataStructures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/DataStructures/Syallabus/DSASyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -950,7 +968,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "LinearAndAbstractAlgebra",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -994,7 +1015,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+								"name": "IntroductionToArtificialIntelligence",
+								"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/IntroductionToArtificialIntelligence/Syallabus/IntroductionToArtificialIntelligenceSyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -1038,7 +1062,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "ComputerNetworks",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/ComputerNetworks/Syallabus/ComputerNetworksSyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -1082,7 +1109,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+								"name": "DatabaseManagementSystem",
+								"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DatabaseManagementSystem/Syallabus/DatabaseManagementSystemSyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -1126,7 +1156,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "FoundationOfComputerScience",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/FoundationOfComputerScience/Syallabus/FoundationOfComputerScienceSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -1170,7 +1203,11 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "DataStructures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Syallabus/DSASyallabus.pdf"
+								}
+
 							]
 						}
 					]
@@ -1836,7 +1873,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "LinearAndAbstractAlgebra",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -1880,7 +1920,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "ArtificialIntelligenceAndItsApplications",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/ArtificialIntelligenceAndItsApplications/Syallabus/ArtificialIntelligenceAndItsApplicationsSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -1924,7 +1967,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "ComputerNetworks",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/ComputerNetworks/Syallabus/ComputerNetworksSyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -2012,7 +2058,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "SwitchingTheoryandLogicDesign",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Syallabus/SwitchingTheoryandLogicDesignSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -2056,7 +2105,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "DataStructures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/DataStructures/Syallabus/DSASyallabus.pdf"
+								}
 							]
 						}
 					]
@@ -2722,7 +2774,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "LinearAndAbstractAlgebra",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -2766,7 +2821,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "IntroductionToRobotics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/IntroductionToRobotics/Syallabus/IntroductionToRoboticsSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -2810,7 +2868,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "MechanicsOfMaterial",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/MechanicsOfMaterial/Syallabus/MechanicsOfMaterialSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -2854,7 +2915,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "AnalogElectronics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Syallabus/AnalogElectronicsSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -2898,7 +2962,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "SwitchingTheoryandLogicDesign",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Syallabus/SwitchingTheoryandLogicDesignSyllabus.pdf"
+								}
 							]
 						}
 					]
@@ -2942,7 +3009,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "KinematicsAndDynamicsOfMachines",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/KinematicsAndDynamicsOfMachines/Syallabus/KinematicsAndDynamicsOfMachinesSyllabus.pdf"
+								}
 							]
 						}
 					]
