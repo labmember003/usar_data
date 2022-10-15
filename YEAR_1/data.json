@@ -53,7 +53,10 @@
 					"contents":
 					[
 						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/CommunicationSkills/Syallabus/communication.pdf"
+						}
 					]
 				}
 			]
@@ -108,8 +111,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/Syallabus/mechanics.pdf"
+						}
 					]
 				}
 			]
@@ -168,8 +173,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ProgrammingforProblemSolvingInC/Syallabus/ProgrammingFOrProblemSolving.pdf"
+						}
 					]
 				}
 			]	
@@ -228,8 +235,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMathematics/Syallabus/maths.pdf"
+						}
 					]
 				}
 
@@ -297,8 +306,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringPhysics/Syallabus/physics.pdf"
+						}
 					]
 				}
 			]	
@@ -344,8 +355,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1//EngineeringChemistry/Syallabus/chemistry.pdf"
+						}
 					]
 				},
 				{
@@ -417,8 +430,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ElectricalScience/Syallabus/electricalScience.pdf"
+						}
 					]
 				}
 
@@ -474,8 +489,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringGraphics/Syallabus/EG.pdf"
+						}
 					]
 				}
 
@@ -542,8 +559,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"title":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/IndianConstitution/Syallabus/LLB.pdf"
+						}
 					]
 				}
 			]	
