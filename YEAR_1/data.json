@@ -54,7 +54,7 @@
 					[
 						
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/CommunicationSkills/Syallabus/communication.pdf"
 						}
 					]
@@ -112,7 +112,7 @@
 					"contents":
 					[
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/Syallabus/mechanics.pdf"
 						}
 					]
@@ -174,7 +174,7 @@
 					"contents":
 					[
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ProgrammingforProblemSolvingInC/Syallabus/ProgrammingFOrProblemSolving.pdf"
 						}
 					]
@@ -236,7 +236,7 @@
 					"contents":
 					[
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMathematics/Syallabus/maths.pdf"
 						}
 					]
@@ -307,7 +307,7 @@
 					"contents":
 					[
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringPhysics/Syallabus/physics.pdf"
 						}
 					]
@@ -356,7 +356,7 @@
 					"contents":
 					[
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1//EngineeringChemistry/Syallabus/chemistry.pdf"
 						}
 					]
@@ -431,7 +431,7 @@
 					"contents":
 					[
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/ElectricalScience/Syallabus/electricalScience.pdf"
 						}
 					]
@@ -490,7 +490,7 @@
 					"contents":
 					[
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringGraphics/Syallabus/EG.pdf"
 						}
 					]
@@ -560,7 +560,7 @@
 					"contents":
 					[
 						{
-							"title":"Syllabus",
+							"name":"Syllabus",
 							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/IndianConstitution/Syallabus/LLB.pdf"
 						}
 					]
