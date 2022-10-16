@@ -512,7 +512,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem4/Theory/SoftwareEngineering/Syallabus/softDS.pdf"
+								}
 							]
 						}
 					]
@@ -556,7 +559,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem4/Theory/OperatingSystem/Syallabus/OSds.pdf"
+								}
 							]
 						}
 					]
@@ -600,7 +606,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem4/Theory/IntroductionToMachineLearning/Syallabus/introDS.pdf"
+								}
 							]
 						}
 					]
@@ -644,7 +653,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem4/Theory/AnalysisAndDesignOfAlgorithms/Syallabus/ANALAds.pdf"
+								}
 							]
 						}
 					]
@@ -732,7 +744,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem4/Theory/ConvexOptimization/Syallabus/convexDS.pdf"
+								}
 							]
 						}
 					]
@@ -1427,7 +1442,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem4/Theory/SoftwareEngineering/Syallabus/softDS.pdf"
+								}
 							]
 						}
 					]
@@ -1471,7 +1489,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem4/Theory/OperatingSystem/Syallabus/OSds.pdf"
+								}
 							]
 						}
 					]
@@ -1515,7 +1536,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem4/Theory/IntroductionToMachineLearning/Syallabus/introDS.pdf"
+								}
 							]
 						}
 					]
@@ -1559,7 +1583,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem4/Theory/AnalysisAndDesignOfAlgorithms/Syallabus/ANALAds.pdf"
+								}
 							]
 						}
 					]
@@ -1647,7 +1674,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem4/Theory/ConvexOptimization/Syallabus/convexDS.pdf"
+								}
 							]
 						}
 					]
@@ -2328,7 +2358,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem4/Theory/InternetOfThings/Syallabus/IOT.pdf"
+								}
 							]
 						}
 					]
@@ -2372,7 +2405,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem4/Theory/MechatronicSystemsAndApplications/Syallabus/MechatronicSystemAndApplictaion.pdf"
+								}
 							]
 						}
 					]
@@ -2416,7 +2452,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem4/Theory/FundamentalsOfAutomation/Syallabus/FundamemtalsOfAutomation.pdf"
+								}
 							]
 						}
 					]
@@ -2460,7 +2499,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem4/Theory/ControlSystems/Syallabus/ControlSystem.pdf"
+								}
 							]
 						}
 					]
@@ -2504,7 +2546,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem4/Theory/ElectricalMachinesAndDrives/Syallabus/ElecteicalMachinesAndDrive.pdf"
+								}
 							]
 						}
 					]
@@ -2548,7 +2593,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem4/Theory/ConvexOptimization/Syallabus/ConvexOptimization.pdf"
+								}
 							]
 						}
 					]
@@ -3232,7 +3280,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem4/Theory/InternetOfThings/Syallabus/iotAR.pdf"
+								}
 							]
 						}
 					]
@@ -3276,7 +3327,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem4/Theory/MechatronicSystemsAndApplications/Syallabus/MECHATRONICSAR.pdf"
+								}
 							]
 						}
 					]
@@ -3320,7 +3374,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem4/Theory/FundamentalsOfAutomation/Syallabus/fundAR.pdf"
+								}
 							]
 						}
 					]
@@ -3364,7 +3421,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem4/Theory/ControlTheoryAndRobotControlSystems/Syallabus/controlAR.pdf"
+								}
 							]
 						}
 					]
@@ -3408,7 +3468,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem4/Theory/OOPSandDataStructures/Syallabus/oopsAR.pdf"
+								}
 							]
 						}
 					]
@@ -3452,7 +3515,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem4/Theory/ConvexOptimization/Syallabus/convexAR.pdf"
+								}
 							]
 						}
 					]
