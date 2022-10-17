@@ -37,6 +37,10 @@
 								{
 									"name": "IN Herstein",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/IN_Herstein.pdf"
+								},
+								{
+									"name": "Kenneth H Rosen Discrete Mathematics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/KennethHRosenDiscreteMathematics.pdf"
 								}
 							]
 						},
@@ -966,6 +970,10 @@
 								{
 									"name": "IN Herstein",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/IN_Herstein.pdf"
+								},
+								{
+									"name": "Kenneth H Rosen Discrete Mathematics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/KennethHRosenDiscreteMathematics.pdf"
 								}
 							]
 						},
@@ -985,7 +993,7 @@
 							[
 								{
 									"name": "Syllabus",
-									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
 								}
 							]
 						}
@@ -1865,7 +1873,7 @@
 			"subjects" : 
 			[
 				{
-					"sub_name": "Linear and Abstract Algebra",
+					"sub_name": "Linear and Abstract Algebras",
 					"semester":"odd",
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
 					"sections":
@@ -1889,14 +1897,28 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Mathematics For Machine Learning",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/MathematicsForMachineLearning.pdf"
+								},
+								{
+									"name": "IN Herstein",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/IN_Herstein.pdf"
+								},
+								{
+									"name": "Kenneth H Rosen Discrete Mathematics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/KennethHRosenDiscreteMathematics.pdf"
+								}
 							]
 						},
 						{
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "Dr.Gajendra Purohit(Youtube)",
+									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
+								}
 							]
 						},
 						{
@@ -1905,7 +1927,7 @@
 							[
 								{
 									"name": "Syllabus",
-									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
 								}
 							]
 						}
@@ -2784,7 +2806,7 @@
 			"subjects" : 
 			[
 				{
-					"sub_name": "Linear and Abstract Algebra",
+					"sub_name": "Linear and Abstract Algebras",
 					"semester":"odd",
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_2/icons/LinearAndAbstractAlgebraIcon.png",
 					"sections":
@@ -2808,14 +2830,28 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Mathematics For Machine Learning",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/MathematicsForMachineLearning.pdf"
+								},
+								{
+									"name": "IN Herstein",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Books/IN_Herstein.pdf"
+								},
+								{
+									"name": "Kenneth H Rosen Discrete Mathematics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/KennethHRosenDiscreteMathematics.pdf"
+								}
 							]
 						},
 						{
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "Dr.Gajendra Purohit(Youtube)",
+									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
+								}
 							]
 						},
 						{
@@ -2824,7 +2860,7 @@
 							[
 								{
 									"name": "Syllabus",
-									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
 								}
 							]
 						}
