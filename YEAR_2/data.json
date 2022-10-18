@@ -2069,7 +2069,18 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Saliva hanan Electronic Devices",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Books/SalivahananElectronisDevices.pdf"
+								},
+								{
+									"name": "Schaums Electronic Devices",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Books/SchaumsElectronicDevices.pdf"
+								},
+								{
+									"name": "Boylested Book For Analog Electronics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Books/BoylestedBookForAnalogElectronics.pdf"
+								}
 							]
 						},
 						{
@@ -3016,7 +3027,18 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Saliva hanan Electronic Devices",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Books/SalivahananElectronisDevices.pdf"
+								},
+								{
+									"name": "Schaums Electronic Devices",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Books/SchaumsElectronicDevices.pdf"
+								},
+								{
+									"name": "Boylested Book For Analog Electronics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Books/BoylestedBookForAnalogElectronics.pdf"
+								}
 							]
 						},
 						{
