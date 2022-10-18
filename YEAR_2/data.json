@@ -51,20 +51,20 @@
 								{
 									"name": "Dr.Gajendra Purohit(Youtube)",
 									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
-								}
-							]
-						},
-						{
-							"title":"Playlists",
-							"contents":
-							[
-								{
-									"name": "Dr.Gajendra Purohit(Youtube)",
-									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
 								},
 								{
 									"name": "MathMajor",
 									"source_url": "https://youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk"
+								}
+							]
+						},
+						{
+							"title":"Syllabus",
+							"contents":
+							[
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
 								}
 							]
 						}
@@ -2097,7 +2097,11 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Syllabus",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Syallabus/AnalogElectronicsSyllabus.pdf"
+								}
+
 							]
 						}
 					]
