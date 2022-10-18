@@ -2292,7 +2292,11 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Basic Electronics Lab",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/LABs/BasicElectronicsLab/Books/BasicElectronicsLabManual.pdf"
+								}
+
 							]
 						}
 					]
@@ -3228,7 +3232,10 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								
+								{
+									"name": "Basic Electronics Lab",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/LABs/BasicElectronicsLab/Books/BasicElectronicsLabManual.pdf"
+								}
 							]
 						}
 					]
