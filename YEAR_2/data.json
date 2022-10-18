@@ -55,12 +55,16 @@
 							]
 						},
 						{
-							"title":"Syllabus",
+							"title":"Playlists",
 							"contents":
 							[
 								{
-									"name": "Syllabus",
-									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIDS/Sem3/Theory/LinearAndAbstractAlgebra/Syallabus/LinearAndAbstractAlgebraSyllabus.pdf"
+									"name": "Dr.Gajendra Purohit(Youtube)",
+									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
+								},
+								{
+									"name": "MathMajor",
+									"source_url": "https://youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk"
 								}
 							]
 						}
@@ -145,7 +149,10 @@
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "Computer Networks (Complete Playlist)",
+									"source_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_"
+								}
 							]
 						},
 						{
@@ -1078,7 +1085,10 @@
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "Computer Networks (Complete Playlist)",
+									"source_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_"
+								}
 							]
 						},
 						{
@@ -1918,6 +1928,10 @@
 								{
 									"name": "Dr.Gajendra Purohit(Youtube)",
 									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
+								},
+								{
+									"name": "MathMajor",
+									"source_url": "https://youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk"
 								}
 							]
 						},
@@ -2012,7 +2026,10 @@
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "Computer Networks (Complete Playlist)",
+									"source_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_"
+								}
 							]
 						},
 						{
@@ -2855,6 +2872,10 @@
 								{
 									"name": "Dr.Gajendra Purohit(Youtube)",
 									"source_url": "https://www.youtube.com/playlist?list=PLU6SqdYcYsfKdxRXRe1vtR1UzFPqmj711"
+								},
+								{
+									"name": "MathMajor",
+									"source_url": "https://youtube.com/playlist?list=PLVMgvCDIRy1wONAFFjMV9c0QaNuyfT5Gk"
 								}
 							]
 						},
@@ -3007,6 +3028,7 @@
 									"name": "Syllabus",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/AnalogElectronics/Syallabus/AnalogElectronicsSyllabus.pdf"
 								}
+
 							]
 						}
 					]
