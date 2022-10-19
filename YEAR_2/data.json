@@ -1969,8 +1969,10 @@
 							"title":"Notes & Files",
 							"contents":
 							[
-								
-								
+								{
+									"name": "Artificial Intelligence And Its Applications",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/ArtificialIntelligenceAndItsApplications/Books/AILectNotes.pdf"
+								}
 							]
 						},
 						{
