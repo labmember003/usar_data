@@ -286,7 +286,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Data Structures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Books/DataStructures.pdf"
+								}
 							]
 						},
 						{
@@ -465,7 +468,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Data Structures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Books/DataStructures.pdf"
+								}
 							]
 						},
 						{
@@ -1222,7 +1228,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Data Structures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Books/DataStructures.pdf"
+								}
 							]
 						},
 						{
@@ -1402,7 +1411,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Data Structures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Books/DataStructures.pdf"
+								}
 							]
 						},
 						{
@@ -2181,7 +2193,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Data Structures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Books/DataStructures.pdf"
+								}
 							]
 						},
 						{
@@ -2364,7 +2379,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Data Structures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Books/DataStructures.pdf"
+								}
 							]
 						},
 						{
@@ -3557,7 +3575,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Data Structures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Books/DataStructures.pdf"
+								}
 							]
 						},
 						{
@@ -3783,7 +3804,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Data Structures",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/DataStructures/Books/DataStructures.pdf"
+								}
 							]
 						},
 						{
