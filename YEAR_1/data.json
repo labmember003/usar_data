@@ -1128,10 +1128,7 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						{
-							"name": "Syallabus",
-							"source_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/ProbabilityAndStatistics/Syallabus/SYLLABUS.pdf"
-						}
+						
 					]
 				},
 				{
@@ -1139,8 +1136,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"name": "Syallabus",
+							"source_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem2/ProbabilityAndStatistics/Syallabus/SYLLABUS.pdf"
+						}
 					]
 				}
 			]
