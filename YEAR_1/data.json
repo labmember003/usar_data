@@ -1144,6 +1144,55 @@
 					]
 				}
 			]
+		},
+		{
+			"sub_name":"Human Value and Ethics",	
+			"semester":"even",
+			"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/humanValuesIcon.png",
+			"sections":
+			[
+				{
+					"title":"Notes & Files",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"papers",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/exam.png",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"books",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/book.png",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"Playlists",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
+					"contents":
+					[
+						
+					]
+				},
+				{
+					"title":"Syllabus",
+					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
+					"contents":
+					[
+						
+						
+					]
+				}
+			]
 		}
 	]
 }
