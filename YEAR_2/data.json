@@ -202,7 +202,14 @@
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "DBMS in Hindi (Complete Playlist)",
+									"source_url": "https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV"
+								},
+								{
+									"name": "Database Management System In HINDI (TutorialSpace)",
+									"source_url": "https://www.youtube.com/playlist?list=PLL8qj6F8dGlSZYUFrX6ASTdFWiUlLjguc"
+								}		
 							]
 						},
 						{
@@ -1147,7 +1154,14 @@
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "DBMS in Hindi (Complete Playlist)",
+									"source_url": "https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV"
+								},
+								{
+									"name": "Database Management System In HINDI (TutorialSpace)",
+									"source_url": "https://www.youtube.com/playlist?list=PLL8qj6F8dGlSZYUFrX6ASTdFWiUlLjguc"
+								}		
 							]
 						},
 						{
