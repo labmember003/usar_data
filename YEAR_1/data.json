@@ -421,8 +421,14 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"name": "Basic Electrical Engineering",
+							"source_url": "https://www.youtube.com/playlist?list=PL9RcWoqXmzaLTYUdnzKhF4bYug3GjGcEc"
+						},
+						{
+							"name": "Basic Electrical Engineering (BEE)",
+							"source_url": "https://www.youtube.com/playlist?list=PLm_MSClsnwm9z1WKnK0RFqLzrznI_Isb8"
+						}
 					]
 				},
 				{
