@@ -355,10 +355,7 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						{
-							"name":"Syllabus",
-							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1//EngineeringChemistry/Syallabus/chemistry.pdf"
-						}
+						
 					]
 				},
 				{
@@ -366,8 +363,10 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
-						
+						{
+							"name":"Syllabus",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1//EngineeringChemistry/Syallabus/chemistry.pdf"
+						}
 					]
 				}
 
