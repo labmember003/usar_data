@@ -45,6 +45,10 @@
 								{
 									"name": "Linear Algebra Stephen H Friedberg Arnold J Insel",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/LinearAlgebraStephenHFriedbergArnoldJInsel.pdf"
+								},
+								{
+									"name": "Rajendra K Jain S.R.K.Iyengar Advanced Mathematics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/RajendraKJainSRKLyengarAdvancedMathematics.pdf"
 								}
 							]
 						},
@@ -1020,6 +1024,10 @@
 								{
 									"name": "Linear Algebra Stephen H Friedberg Arnold J Insel",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/LinearAlgebraStephenHFriedbergArnoldJInsel.pdf"
+								},
+								{
+									"name": "Rajendra K Jain S.R.K.Iyengar Advanced Mathematics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/RajendraKJainSRKLyengarAdvancedMathematics.pdf"
 								}
 							]
 						},
@@ -1996,6 +2004,10 @@
 								{
 									"name": "Linear Algebra Stephen H Friedberg Arnold J Insel",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/LinearAlgebraStephenHFriedbergArnoldJInsel.pdf"
+								},
+								{
+									"name": "Rajendra K Jain S.R.K.Iyengar Advanced Mathematics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/RajendraKJainSRKLyengarAdvancedMathematics.pdf"
 								}
 							]
 						},
@@ -2211,7 +2223,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Practice Assignment Test",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Papers/PracticeAssignmentTest.pdf"
+								}
 							]
 						},
 						{
@@ -2225,7 +2240,20 @@
 								{
 									"name": "M Morris Mano Digital Logic And Computer Design",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Books/DigitalLogicAndComputerDesignByMMorrisMano.pdf"
+								},
+								{
+									"name": "STLD AK Singh",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Books/StldAkSingh.pdf"
+								},
+								{
+									"name": "Switching and Finite Automata Theory",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Books/SwitchingandFiniteAutomataTheory.pdf"
+								},
+								{
+									"name": "Digital Electronics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Books/digitalElectronics.pdf"
 								}
+
 							]
 						},
 						{
@@ -2413,14 +2441,20 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Electronic Lab Exam",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/LABs/BasicElectronicsLab/Papers/ElectronicLabExam.pdf"
+								}
 							]
 						},
 						{
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Basic Electronics Lab Manual",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/LABs/BasicElectronicsLab/Books/BasicElectronicsLabManual.pdf"
+								}
 							]
 						},
 						{
@@ -2434,11 +2468,7 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								{
-									"name": "Basic Electronics Lab",
-									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/LABs/BasicElectronicsLab/Books/BasicElectronicsLabManual.pdf"
-								}
-
+								
 							]
 						}
 					]
@@ -2994,6 +3024,10 @@
 								{
 									"name": "Linear Algebra Stephen H Friedberg Arnold J Insel",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/LinearAlgebraStephenHFriedbergArnoldJInsel.pdf"
+								},
+								{
+									"name": "Rajendra K Jain S.R.K.Iyengar Advanced Mathematics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/LinearAndAbstractAlgebra/Books/RajendraKJainSRKLyengarAdvancedMathematics.pdf"
 								}
 							]
 						},
@@ -3201,7 +3235,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Practice Assignment Test",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Papers/PracticeAssignmentTest.pdf"
+								}
 							]
 						},
 						{
@@ -3215,6 +3252,18 @@
 								{
 									"name": "M Morris Mano Digital Logic And Computer Design",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Books/DigitalLogicAndComputerDesignByMMorrisMano.pdf"
+								},
+								{
+									"name": "STLD AK Singh",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Books/StldAkSingh.pdf"
+								},
+								{
+									"name": "Switching and Finite Automata Theory",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Books/SwitchingandFiniteAutomataTheory.pdf"
+								},
+								{
+									"name": "Digital Electronics",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Books/digitalElectronics.pdf"
 								}
 
 							]
@@ -3400,14 +3449,20 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Electronic Lab Exam",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/LABs/BasicElectronicsLab/Papers/ElectronicLabExam.pdf"
+								}
 							]
 						},
 						{
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Basic Electronics Lab Manual",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/LABs/BasicElectronicsLab/Books/BasicElectronicsLabManual.pdf"
+								}
 							]
 						},
 						{
@@ -3421,10 +3476,7 @@
 							"title":"Syllabus",
 							"contents":
 							[
-								{
-									"name": "Basic Electronics Lab",
-									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/LABs/BasicElectronicsLab/Books/BasicElectronicsLabManual.pdf"
-								}
+								
 							]
 						}
 					]
