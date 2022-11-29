@@ -366,7 +366,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Engineering Economics by Panneer Selvam",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/EngineeringEconomics/Books/Engineering_Economics_by_Panneer_Selvam.pdf"
+								}
 							]
 						},
 						{
@@ -1346,7 +1349,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Engineering Economics by Panneer Selvam",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/EngineeringEconomics/Books/Engineering_Economics_by_Panneer_Selvam.pdf"
+								}
 							]
 						},
 						{
@@ -2365,7 +2371,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Engineering Economics by Panneer Selvam",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/EngineeringEconomics/Books/Engineering_Economics_by_Panneer_Selvam.pdf"
+								}
 							]
 						},
 						{
@@ -3381,7 +3390,10 @@
 							"title":"books",
 							"contents":
 							[
-								
+								{
+									"name": "Engineering Economics by Panneer Selvam",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AIML/Sem3/Theory/EngineeringEconomics/Books/Engineering_Economics_by_Panneer_Selvam.pdf"
+								}
 							]
 						},
 						{
