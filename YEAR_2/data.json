@@ -23,7 +23,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Papers/mathMidSem3.pdf"
+								}
 							]
 						},
 						{
@@ -149,7 +152,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/ComputerNetworks/Papers/networkingMidSem3.pdf"
+								}
 							]
 						},
 						{
@@ -307,7 +313,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/DataStructures/Papers/dsMidSem3.pdf"
+								}	
 							]
 						},
 						{
@@ -1007,7 +1016,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Papers/mathMidSem3.pdf"
+								}	
 							]
 						},
 						{
@@ -1133,7 +1145,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/ComputerNetworks/Papers/networkingMidSem3.pdf"
+								}
 							]
 						},
 						{
@@ -1291,7 +1306,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/DataStructures/Papers/dsMidSem3.pdf"
+								}	
 							]
 						},
 						{
@@ -1992,7 +2010,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Papers/mathMidSem3.pdf"
+								}	
 							]
 						},
 						{
@@ -2071,7 +2092,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/ArtificialIntelligenceAndItsApplications/Papers/AImidSem3.pdf"
+								}
 							]
 						},
 						{
@@ -2120,7 +2144,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/ComputerNetworks/Papers/networkingMidSem3.pdf"
+								}
 							]
 						},
 						{
@@ -2173,7 +2200,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/AnalogElectronics/Papers/analogMidSem3.pdf"
+								}	
 							]
 						},
 						{
@@ -2238,6 +2268,10 @@
 								{
 									"name": "Practice Assignment Test",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Papers/PracticeAssignmentTest.pdf"
+								},
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Papers/stldMidSem3.pdf"
 								}
 							]
 						},
@@ -2316,7 +2350,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/DataStructures/Papers/dsMidSem3.pdf"
+								}	
 							]
 						},
 						{
@@ -3025,7 +3062,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/LinearAndAbstractAlgebra/Papers/mathMidSem3.pdf"
+								}	
 							]
 						},
 						{
@@ -3196,7 +3236,10 @@
 							"title":"papers",
 							"contents":
 							[
-								
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/AnalogElectronics/Papers/analogMidSem3.pdf"
+								}	
 							]
 						},
 						{
@@ -3261,6 +3304,10 @@
 								{
 									"name": "Practice Assignment Test",
 									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Papers/PracticeAssignmentTest.pdf"
+								},
+								{
+									"name": "Mid Sem",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/Theory/SwitchingTheoryandLogicDesign/Papers/stldMidSem3.pdf"
 								}
 							]
 						},
