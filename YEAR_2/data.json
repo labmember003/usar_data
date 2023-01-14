@@ -2281,8 +2281,10 @@
 							"title":"Notes & Files",
 							"contents":
 							[
-								
-								
+								{
+									"name": "Unit 1 STLD Complete Notes",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Notes/Unit1STLDComplete.pdf"
+								}
 							]
 						},
 						{
@@ -3321,8 +3323,10 @@
 							"title":"Notes & Files",
 							"contents":
 							[
-								
-								
+								{
+									"name": "Unit 1 STLD Complete Notes",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/AR/Sem3/Theory/SwitchingTheoryandLogicDesign/Notes/Unit1STLDComplete.pdf"
+								}
 							]
 						},
 						{
