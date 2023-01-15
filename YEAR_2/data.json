@@ -2479,8 +2479,10 @@
 							"title":"Notes & Files",
 							"contents":
 							[
-								
-								
+								{
+									"name": "Artificical Intelligence File Semester 3",
+									"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_2/Branches/IIOT/Sem3/LABs/ArtificialIntelligenceLab/Files/ArtificicalIntelligenceFileSemester3.pdf"
+								}
 							]
 						},
 						{
