@@ -2125,7 +2125,10 @@
 							"title":"Playlists",
 							"contents":
 							[
-								
+								{
+									"name": "Artificial Intelligence Lectures Hindi",
+									"source_url": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe"
+								}
 							]
 						},
 						{
@@ -2345,8 +2348,12 @@
 									"source_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe"
 								},
 								{
-									"name": "DSwitching Theory & Logic Design(STLD) Lectures Hindi",
+									"name": "Switching Theory & Logic Design(STLD) Lectures Hindi",
 									"source_url": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnYPcUIMndzOUsJ5pmZx6Uiz"
+								},
+								{
+									"name": "Switching theory & Logic Design ( STLD )",
+									"source_url": "https://www.youtube.com/playlist?list=PLrjkTql3jnm-D9tTkJ5WszA0hPLvTTQ-o"
 								}
 							]
 						},
@@ -3389,8 +3396,12 @@
 									"source_url": "https://youtube.com/playlist?list=PLxCzCOWd7aiGmXg4NoX6R31AsC5LeCPHe"
 								},
 								{
-									"name": "DSwitching Theory & Logic Design(STLD) Lectures Hindi",
+									"name": "Switching Theory & Logic Design(STLD) Lectures Hindi",
 									"source_url": "https://www.youtube.com/playlist?list=PLV8vIYTIdSnYPcUIMndzOUsJ5pmZx6Uiz"
+								},
+								{
+									"name": "Switching theory & Logic Design ( STLD )",
+									"source_url": "https://www.youtube.com/playlist?list=PLrjkTql3jnm-D9tTkJ5WszA0hPLvTTQ-o"
 								}
 							]
 						},
