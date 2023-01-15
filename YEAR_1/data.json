@@ -72,7 +72,26 @@
 					"icon_url":"https://github.com/labmember003/usar_data/raw/master/YEAR_1/icons/notes.png",
 					"contents":
 					[
-						
+						{
+							"name": "Distributed Forces",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/Notes/DistributedForces.pdf"
+						},
+						{
+							"name": "Equilibrium",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/Notes/Equilibrium.pdf"
+						},
+						{
+							"name": "Firction",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/Notes/Firction.pdf"
+						},
+						{
+							"name": "Force System",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/Notes/ForceSystem.pdf"
+						},
+						{
+							"name": "Structure",
+							"source_url": "https://github.com/labmember003/usar_data/raw/master/YEAR_1/Sem1/EngineeringMechanics/Notes/Structure.pdf"
+						}
 					]
 				},
 				{
